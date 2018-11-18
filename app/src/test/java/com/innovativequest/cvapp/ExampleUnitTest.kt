@@ -1,4 +1,4 @@
-package com.innovativequest.cv_app
+package com.innovativequest.cvapp
 
 import org.junit.Test
 

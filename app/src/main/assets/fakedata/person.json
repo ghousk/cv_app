@@ -1,0 +1,9 @@
+{
+    "name": "Ghous Khan",
+    "imageUrl": "file:///android_asset/fakedata/images/ghous.png",
+    "mobile": "07678984735",
+    "email": "myemail@provider.com",
+    "qualification": "BENG Electronics with Computing & Business",
+    "summary": "An experienced Software Consultant  with strong design, development and problem solving skills, who is enthusiastic about meeting tight deadlines and targets in cutting edge technological environments.  Capable of finding solutions to complex problems.  Possessing Android, iOS, MAC, Windows, Linux & UNIX OS Agile development experience. Good ISO 9000 TickIT quality background.  Also possessing Team Lead experience with many years of mentoring junior engineers along with Code review and release management experience.",
+    "technicalKnowledge": "MVP architecture using RxJava2, Dagger2, RxBinding2 using Kotlin implementation experience, Development of new features using Kotlin, Extensive experience with Retrofit and okHttp3 also Network Volley on Legacy Apps.  Experience using Picasso, Experience of implementing several design patterns including Observer, Abstract Factory, Factory, Singleton, Builder, Adapter, Chain of Responsibility, Bridge.  Experience of writing Clean and testable code. Experience of Story & Task breakdown, Sprint & Epic planning.  Agile and TDD, Requirements Elicitation, Architectural Design & Detailed Design.  Software implementation experience using OO Java & C++.  Android & iOS App Development experience.  Full Android application design and implementation experience from Greenfield to Play Store delivery.  Management of external suppliers and Team Lead experience"
+}

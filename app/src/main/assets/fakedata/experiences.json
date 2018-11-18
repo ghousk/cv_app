@@ -1,0 +1,32 @@
+{
+    "experiences": [
+              {
+                  "title": "Redstone Connect Labs",
+                  "jobTitle": "Senior Android Developer",
+                  "startDate": "2015-06-01T09:00:00.000Z",
+                  "endDate": "2018-11-30T17:30:00.000Z",
+                  "achievements":"Agile planning for Backlog User Stories & sub-tasks into Epics & Sprints, Use of major libraries like Retrofit, Butterknife, Picasso, RxJava, RxAndroid, No network App usage via, and Realm DB implementation.  Product Flavour usage to support white-labeling App for multiple clients, Mentoring of a Junior Android Developer" 
+              },
+              {
+                  "title": "Engine Creative",
+                  "jobTitle": "Senior Android Developer",
+                  "startDate": "2014-10-01T09:00:00.000Z",
+                  "endDate": "2015-04-01T17:30:00.000Z",
+                  "achievements":"Developed Ogle, iSee, Tesco Discover and Capita Cummins Android Apps on entirely Greenfield projects.  Augmented Reality Apps based on Metaio AR SDK (SDK & Cloud Plugin), implemented in Java.  Fragments, Navigation Drawer, Action Bar and AREL Webview based UI Design and implementation.  Implementation of a multi fragment based central UI, utilizing DrawerLayout and Framelayout widgets.  Integrated App to Google Maps, Gimbal, Google LBS, Shutterbug, Crashlytics, Picasso & Google Analytics.  Rest API integration using Spring Frameworks, JSON to Object conversion.  XML to Object conversion.  SN Integration, including Facebook and Twitter.  Implementation includes Facebook login, reading and adding Likes for channels and Webpages using OpenGraph Likes.  Sharing on Facebook and Twitter.  Follow on Twitter & Rating of App.  Setting up Apps on the Facebook and Twitter Development Consoles.  " 
+              },
+              {
+                  "title": "BoomBox+",
+                  "jobTitle": "Senior IT Developer + Requirements Analyst + UX/UI Designer + PM",
+                  "startDate": "2014-02-01T09:00:00.000Z",
+                  "endDate": "2014-09-01T17:30:00.000Z",
+                  "achievements":"Running an Android Media Streaming project (Tablet based with hardware casing & keys) in its entirety.  User requirements gathering & transformation to System Design & Component level design.  Prototyping of various UI techniques, including List Fragments, Gestures, View-Pager.  Implementation of final UI using ViewPager and Fragments. UI Designed for multiple devices, using 600/700dp schemes. Customized ViewPager to add cyclic scroll and intercept onPageScrolled events. " 
+              },
+              {
+                  "title": "Blippar Ltd",
+                  "jobTitle": "Software Engineer + UX/UI Specialist + IT Services Manager",
+                  "startDate": "2013-02-01T09:00:00.000Z",
+                  "endDate": "2013-12-31T17:30:00.000Z",
+                  "achievements":"Features development in the ‘Blippar’ iOS and Android App using Obj C, Java and C++.  OpenGL using Vuforia Cloud Reco, Text Reco development experience.  Implemented iOS App localization and localized resource addition for the Blippar App.  ‘Blipp’ development using XML & web related techs like PHP, Overlay HTML, Java Script, J Query.  Implemented continuous integration using Jenkins on cloud server for Android, iOS, Blackberry and Windows Mobile builds.  Usability expert for Android, iOS, Blackberry and Windows Mobile devices.  Managed the contract and services from an off shore services supplier, including work specs, rate negotiation and acceptance of services agreement.  	Good exposure to OS-X & related development tools including X-Code & Eclipse."
+              }
+    ]
+}

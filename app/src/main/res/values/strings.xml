@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">cv_app</string>
+
+    <string name="summary">Summary</string>
+    <string name="technical_knowledge">Technical Knowledge</string>
+    <string name="past_experience">Past Experience</string>
 </resources>
