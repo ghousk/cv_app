@@ -12,6 +12,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="10dp"
             android:orientation="vertical">
             <android.support.v7.widget.AppCompatTextView
                 android:id="@+id/name_tv"
@@ -71,11 +72,16 @@
                 tools:text="This is technical knowledge This is technical knowledge This is technical knowledge This is technical knowledge This is technical knowledge This is technical knowledge This is technical knowledge This is technical knowledge This is technical knowledge This is technical knowledge This is technical knowledge "
                 />
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="10dp"
+                android:background="@android:color/darker_gray"/>
+
             <android.support.v7.widget.AppCompatTextView
                 android:id="@+id/past_experience_title_tv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
                 android:maxLines="1"
                 android:ellipsize="end"
                 style="@style/heading_medium_bold"
